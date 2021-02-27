@@ -3,6 +3,7 @@
 # Soundvisualizer
 ![SoundVis](https://user-images.githubusercontent.com/43674314/109382554-78f46c00-7924-11eb-9e61-4f350d66fa72.gif)
 ### Javaで作った音を可視化するソフト。簡単なアンプ機能あり。
+流体計算は非圧縮ナビエ－ストークス方程式の陽解法を用いて出力している。
 #### 使用ライブラリ
 - Processing
 - Processing Sound
